@@ -1,0 +1,15 @@
+Bárbara Ramos, Letícia Vidal, Natália Viveiros
+09/01
+
+"Localização das lojas"
+
+Exibição da localidade das lojas físicas do cliente.
+
+
+Requisitos:
+ 
+	- section com mapa interativo que mostra as lojas mais próximas, com marcadores diferentes/personalizados	
+
+	- section para exposição das lojas existentes, cada uma com sua respectiva foto e, ao lado, 	horário de funcionamento, endereço e contato.
+
+	- possibilidade de inserir, remover e atualizar as filiais pelo administrador.
